@@ -1,5 +1,6 @@
 # tadycon - tadyen's config
-this is a very quick and dirty, poorly thought out spec for a config system
+this is a very quick and dirty, poorly thought out spec for a config system.
+tadycon is a toml spec that acts as an rsync wrapper
 
 ## 0 Goal
 to automate syncing custom configs / overrides for a given package on a system.
